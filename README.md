@@ -3,6 +3,7 @@
 ![steam_icon_2071280](https://github.com/SethStormR/Dark-Fantasy/assets/60283532/e8f17f4a-f007-4c14-9cbf-28d4eeaf4afe)
 
 A dark and gothic icon theme for Gnome, XFCE, Deepin and Budgie DE.
+
 COMING SOON(tm)...
 
 Video
