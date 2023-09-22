@@ -8,7 +8,8 @@ COMING SOON(tm)...
 
 Video
 --
-https://youtu.be/7teqpqlcU3U
+https://www.youtube.com/watch?v=ls5CZaErCmM
+
 
 Screenshots
 --
